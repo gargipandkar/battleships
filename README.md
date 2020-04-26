@@ -19,7 +19,7 @@ After each turn, both players are informed whether the shot was a "hit" or a "mi
 
 This version is designed to be a 1-player game against an algorithm. The algoritm is state-machine with a "hunt" mode and a "target" mode. In the "hunt" mode, it shoots at random locations with odd (or even) parity. Once a ship is hit, it switches to "target" mode in which it searches at all surrounding locations. It returns to "hunt" mode when that ship has been sunk.
 
-Video demo can be found [here] (https://sutdapac-my.sharepoint.com/:v:/g/personal/gargi_pandkar_mymail_sutd_edu_sg/EZunIzsgDhFJkJsl3ZD4-QAB8EWuflBFysuWurQa5wJs0A?e=Jxm2oR).
+Video demo can be found [here](https://sutdapac-my.sharepoint.com/:v:/g/personal/gargi_pandkar_mymail_sutd_edu_sg/EZunIzsgDhFJkJsl3ZD4-QAB8EWuflBFysuWurQa5wJs0A?e=Jxm2oR).
 References:  
 https://paulvanderlaken.com/2019/01/21/beating-battleships-with-algorithms-and-ai/
 http://www.datagenetics.com/blog/december32011/
