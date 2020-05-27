@@ -1,8 +1,8 @@
 """
-board: 5x5, A0 to E5, status can be hit(1)/miss(-1)/water(w)/ship(s)
-ships: 2 unit cruiser, 2 unit destroyer, 1 unit submarine, status of ship can be sunk(1)/afloat(0), status of locations hit(1)/unvisited(0)/miss(-1)/
-
-video link: https://sutdapac-my.sharepoint.com/:v:/g/personal/gargi_pandkar_mymail_sutd_edu_sg/EZunIzsgDhFJkJsl3ZD4-QAB8EWuflBFysuWurQa5wJs0A?e=Jxm2oR
+board: 5x5, A0 to E5
+ships: 2 unit cruiser, 2 unit destroyer, 1 unit submarine
+status of locations: hit(1)/miss(-1)/water(w)/ship(s)
+status of ship: sunk(1)/afloat(0)
 """
 from libdw.sm import SM
 import random
