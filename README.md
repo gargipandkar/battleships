@@ -21,7 +21,8 @@ This version is designed to be a 1-player game against an algorithm. The algorit
 
 Video demo can be found [here](https://sutdapac-my.sharepoint.com/:v:/g/personal/gargi_pandkar_mymail_sutd_edu_sg/EZunIzsgDhFJkJsl3ZD4-QAB8EWuflBFysuWurQa5wJs0A?e=Jxm2oR).
 
-References:  
-https://paulvanderlaken.com/2019/01/21/beating-battleships-with-algorithms-and-ai/
-http://www.datagenetics.com/blog/december32011/
-
+References :  
+<ol>
+  <li>https://paulvanderlaken.com/2019/01/21/beating-battleships-with-algorithms-and-ai/
+  <li>http://www.datagenetics.com/blog/december32011/
+</ol>
