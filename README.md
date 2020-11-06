@@ -1,5 +1,5 @@
 # battleships
-10.008 Digital World Final Assignment
+10.008 Digital World Assignment
 
 Battleships is a 2-player paper-and-pen guessing game originally published by the Milton Bradley Company in 1943. Each player uses two square grids: one to place one's own ships (placement grid) and one to record the shots fired at the opponent (target grid). Ships of various sizes have to be placed by each player according to the rules as detailed below. After the initial placement phase, players alternate in shooting at enemy ships. 
 
